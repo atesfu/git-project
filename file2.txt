@@ -1,0 +1,5 @@
+add to file to check if the email configration work succesfully
+git status
+git add file2.txt
+git commit -m "emai comfigration"
+git push -u origin main
